@@ -12,21 +12,21 @@
 
 ### Exemplo 1
 
-  Entrada: x = 121
-  Saída: true
-  121 → lido da esquerda para a direita
-  121 → lido da direita para a esquerda
+  Entrada: x = 121<br>
+  Saída: true<br>
+  121 → lido da esquerda para a direita<br>
+  121 → lido da direita para a esquerda<br>
 
 ### Exemplo 2
 
-  Entrada: x = -121
-  Saída: false
-  -121 → esquerda para direita
-  121- → direita para esquerda
+  Entrada: x = -121<br>
+  Saída: false<br>
+  -121 → esquerda para direita<br>
+  121- → direita para esquerda<br>
 
 ### Exemplo 3
 
-  Entrada: x = 10
-  Saída: false
-  10 → esquerda para direita
-  01 → direita para esquerda
+  Entrada: x = 10<br>
+  Saída: false<br>
+  10 → esquerda para direita<br>
+  01 → direita para esquerda<br>
